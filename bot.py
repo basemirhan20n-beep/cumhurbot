@@ -37,7 +37,7 @@ KOOP_KODU, KOOP_UCRET, KOOP_GUN, KOOP_ZAMAN = range(4)
 # ─── Sabitler ────────────────────────────────────────────
 KOOP_KISI = 4
 
-FEES  = ["100m", "200m", "300m", "500m", "800m", "1.3mr", "2.1mr", "3.4mr"]
+FEES  = ["100m", "200m", "300m", "500m", "800m", "1.2mr", "2.1mr", "3.4mr"]
 DAYS  = [2, 4, 6, 8, 10]
 TIMES = ["🌅 Gündüz", "🌙 Gece"]
 
